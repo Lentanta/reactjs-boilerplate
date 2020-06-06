@@ -1,9 +1,9 @@
 {
-  "name": "calculator",
+  "name": "react-boilerplate",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://tamlt1802@bitbucket.org/hidesignsJP/201911-tam.git",
-  "author": "tamlt <tamlt@hybrid-technologies.vn>",
+  "author": "ThanhTam1802",
   "license": "MIT",
   "dependencies": {
     "@babel/preset-env": "^7.7.1",
